@@ -4,7 +4,7 @@ crcmod
 ecdsa
 intelhex
 libusb1
-pc_ble_driver_py >= 0.14.2
+git+ssh://github.com/NordicSemiconductor/pc-ble-driver-py@0.15.0
 piccata
 protobuf
 pyserial
